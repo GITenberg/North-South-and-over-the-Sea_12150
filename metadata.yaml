@@ -1,0 +1,39 @@
+_repo: North-South-and-over-the-Sea_12150
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brock, H. M. (Henry Matthew)
+    alias: Brock, Henry Matthew
+    birthdate: 1875
+    deathdate: 1960
+    gutenberg_agent_id: '32971'
+    url: http://www.gutenberg.org/2009/agents/32971
+creator:
+  author:
+    agent_name: Francis, M. E.
+    aliases:
+    - Blundell, Mary E. Sweetman
+    - Blundell, Mrs. Francis
+    deathdate: 1930
+    gutenberg_agent_id: '4243'
+    url: http://www.gutenberg.org/2009/agents/4243
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: 'North: Golden Sally. "Th'' owdest member." The conquest of Radical
+  Ted. Heather in Holborn. Sentiment and "feelin''" -- South: The romance of Brother
+  John. Giles in luck. "The wold love and the noo." Blackbird''s inspiration. The
+  girl he left behind him -- Over the sea: Elleney. In St. Patrick''s ward. The flitting
+  of the old folks. "The spider and the gout." Roseen.'
+title: North, South and over the Sea
+url: http://www.gutenberg.org/ebooks/12150
