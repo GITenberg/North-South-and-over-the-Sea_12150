@@ -1,5 +1,5 @@
 _repo: North-South-and-over-the-Sea_12150
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Brock, H. M. (Henry Matthew)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1960
     gutenberg_agent_id: '32971'
     url: http://www.gutenberg.org/2009/agents/32971
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Francis, M. E.
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '4243'
     url: http://www.gutenberg.org/2009/agents/4243
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12150#North-South-and-over-the-Sea
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
